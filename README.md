@@ -1,2 +1,2 @@
 # Linux
-Minicursos e materias sobre Linux!
+Minicursos e materiais sobre Linux!
